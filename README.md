@@ -6,11 +6,13 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0027-remove-element/) | Easy |
+| [0139-word-break](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0198-house-robber/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0001-two-sum/) | Easy |
+| [0139-word-break](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0139-word-break/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,9 +25,23 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0198-house-robber/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0139-word-break/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0139-word-break/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
