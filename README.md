@@ -14,6 +14,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0001-two-sum/) | Easy |
 | [0139-word-break](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0139-word-break/) | Medium |
+| [0383-ransom-note](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0383-ransom-note/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0139-word-break/) | Medium |
+| [0383-ransom-note](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0383-ransom-note/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +52,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
