@@ -21,6 +21,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0027-remove-element/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0139-word-break/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0383-ransom-note](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0383-ransom-note/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
