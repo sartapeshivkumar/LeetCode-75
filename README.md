@@ -16,6 +16,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0001-two-sum/) | Easy |
 | [0139-word-break](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0139-word-break/) | Medium |
+| [0242-valid-anagram](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0383-ransom-note/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@
 | ------- | ------- |
 | [0139-word-break](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0383-ransom-note/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -70,4 +72,8 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0054-spiral-matrix/) | Medium |
 | [0289-game-of-life](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0289-game-of-life/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/sartapeshivkumar/LeetCode-75/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
